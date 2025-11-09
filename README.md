@@ -65,8 +65,8 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://readme-statslol.vercel.app/api?username=Ravsalt&show_icons=true&theme=highcontrast&count_private=true)
-![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=Ravsalt&layout=compact&theme=highcontrast)
+![GitHub Stats](https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true)
+![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=ravvdevv&layout=compact&theme=highcontrast)
 
 ---
 
@@ -75,7 +75,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
   <!-- Row 1 -->
   <tr>
     <td align="center" width="200px">
-      <a href="https://ravsalt.github.io/ai-portfolio" target="_blank">
+      <a href="https://ravvdevv.github.io/ai-portfolio" target="_blank">
         <img src="https://github.com/user-attachments/assets/5d1b1404-dbbb-458a-aa5a-ca2e4d4bb6b1" width="200px"><br>
         <strong>AI Portfolio</strong><br>
         <sub>🧠 Showcasing my AI tools</sub>
