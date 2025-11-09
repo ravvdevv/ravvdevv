@@ -70,7 +70,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true&cache_seconds=0" alt="GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://readme-statslol.vercel.app/api/top-langs/?username=ravvdevv&layout=compact&theme=highcontrast&count_private=true" alt="Top Languages" />
