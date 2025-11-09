@@ -65,7 +65,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)
+![GitHub Stats](https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true)
 ![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=ravvdevv&layout=compact&theme=highcontrast&count_private=true)
 ---
 
